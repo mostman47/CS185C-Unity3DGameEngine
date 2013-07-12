@@ -1,0 +1,17 @@
+using UnityEngine;
+using System.Collections;
+
+public class text : MonoBehaviour {
+
+	// Use this for initialization
+	void Start () {
+	
+	}
+	
+	// Update is called once per frame
+	void Update () {
+	}
+	public void setText(GameObject g, string s)
+	{
+	}
+}
