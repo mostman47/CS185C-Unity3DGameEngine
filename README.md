@@ -2,7 +2,7 @@ CS185C-Unity3DGameEngine
 ========================
 Author: Nam Phan
 School: San Jose State University, CA, US
-Semester: Summer 2013
+Semester: Spring 2013
 
 ---------------------
 
